@@ -7,9 +7,13 @@ This Power BI project analyzes Blinkit’s product performance, outlet operation
 # Tools Used:
 
 Power BI Desktop
+
 Power Query
+
 DAX
+
 Excel/CSV data sources
+
 Power BI service
 
 # Data Preparation:
@@ -31,9 +35,13 @@ Ensured optimized filtering and performance
 # DAX Measures & KPIs :
 
 Key measures include:
+
 Total Sales: 1.20M
+
 Avg Rating: 3.92
+
 Sales per Kg: 89.96K
+
 Operating Years: 9
 
 # Dashboard Insights :
